@@ -3,10 +3,12 @@
 
 int main()
 {
-   int numero;
+    int numero;
 
+    printf("Ingresar un numero: ");
+    scanf("%d" , & numero);
 
-    for ( numero = 0 ; numero < 100; numero += 6 )
+    for ( numero = 100 ; numero >= 0 ; numero -- )
     {
         printf( "\n   " );
         printf( "%d ", numero );
