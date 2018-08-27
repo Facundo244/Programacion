@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535396089 source:c:\users\facundo\desktop\practica3\main.c
+	<stdio.h>
+	<stdlib.h>
+
